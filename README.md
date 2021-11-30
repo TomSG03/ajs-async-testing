@@ -1,2 +1,9 @@
-# ajs-async-3
-[![Build status](https://ci.appveyor.com/api/projects/status/63m65c4spm0yh1bn?svg=true)](https://ci.appveyor.com/project/ADeoZ/ajs-async-3)
+# Продвинутый JavaScript: современные возможности языка
+## [Домашнее задание к лекции Promises, async/await](https://github.com/TomSG03/ajs-homeworks/tree/master/async) - Задача Promises
+- [x] [Promises](https://github.com/TomSG03/ajs-homeworks-async-promises)
+- [x] [async/await](https://github.com/TomSG03/ajs-homeworks-async-async_await)
+- [x] Async test
+
+---
+[Спискок задач](https://github.com/TomSG03/ajs-homeworks-list)
+
